@@ -1,13 +1,13 @@
-package com.hash.gulimallware;
+package com.hash.gulimall.member;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GulimallWareApplication {
+public class GulimallMemberApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GulimallWareApplication.class, args);
+        SpringApplication.run(GulimallMemberApplication.class, args);
     }
 
 }
